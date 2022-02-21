@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JimSpoonbaker
+- 👀 I’m interested in ... *stuff*
+- 🌱 I’m currently learning ... *more stuff, hopefully*
+- 💞️ I’m looking to collaborate on ... *nothing atm*
+- 📫 How to reach me ... *don't, I guess*
